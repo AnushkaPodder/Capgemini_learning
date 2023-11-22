@@ -1,4 +1,4 @@
-package com.intermediate.abstraction.athlete;
+package com.Day1.Abstraction.athlete;
 
 public class AthleteAbs {
 
